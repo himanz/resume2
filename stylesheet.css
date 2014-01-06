@@ -1,0 +1,97 @@
+#header {
+	width: 90%;
+	height: 100px;
+	background-color: #6A5ACD;
+	margin: auto;
+	border-radius: 25px;
+	border: 2px solid black;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#left {
+	width: 350px;
+	height: 600px;
+	background-color: #40E0D0;
+	float: left;
+	margin-left: 70px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border-radius: 15px;	
+	border: 2px solid black;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#middle {
+	width: 350px;
+	height: 600px;
+	background-color: #40E0D0;
+	float: left;	
+	margin-left: 115px;		
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border-radius: 15px;
+	border: 2px solid black;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#right {
+	width: 350px;
+	height: 600px;
+	background-color: #40E0D0;
+	float: right;
+	margin-right: 70px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border-radius: 15px;
+	border: 2px solid black;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#footer {
+    width: 90%;
+	height: 100px;
+	background-color: #6A5ACD;
+	margin: auto;
+	border-radius: 25px;
+	clear: both;	
+	border: 2px solid black;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#htitle {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 50px;	
+}
+
+.icon {
+	height: 50px;
+}
+
+#email {
+	float: left;
+	margin-top: 5px;
+	margin-left: 5px;	
+}
+
+.info {
+	font-size: 18px;
+}
+
+.location {
+	text-align: left;
+}
+
+.year {
+	float: right;
+	margin-right: 10px;
+}
+
+.bodyTitle {
+	text-align: center;
+}
+
+#linkedin {
+	margin-top: 25px;
+	margin-left: 10px;
+}
